@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Valentino</h1>
+<h1 align="center">Hi 👋, I'm Valentino Marcell</h1>
 <h3 align="center">A passionate Data Scientist from Indonesia</h3>
 
 - 🔭 I’m currently working on **Kloster**
