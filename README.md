@@ -13,7 +13,6 @@
 ---
 
 ### 👨‍💻 About Me
-
 * 🔭 I’m currently studying **Banking and Finance** at **Tamkang University**
 * 🌱 I’m currently learning about **Finance, Data Analysis, and Financial Technology**
 * 💻 I have a background in **Computer Science - Data Science**
@@ -21,7 +20,6 @@
 * 📫 How to reach me: **[marcellvalentino04@gmail.com](mailto:marcellvalentino04@gmail.com)**
 
 ### 🤝 Connect with Me
-
 <p align="left">
 <a href="https://linkedin.com/in/valentinomarcell" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Valentino Marcell LinkedIn" height="30" width="40" />
@@ -29,13 +27,12 @@
 <a href="https://fb.com/valentino.marcell.7" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Valentino Marcell Facebook" height="30" width="40" />
 </a>
-<a href="https://instagram.com/valen_marcell" target="_blank">
+<a href="https://instagram.com/valent_marcell" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Valentino Marcell Instagram" height="30" width="40" />
 </a>
 </p>
 
 ### 🛠️ Languages and Tools
-
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -93,7 +90,6 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sevfous&show_icons=true&theme=default" alt="Marcell's GitHub Stats"/>
 </p>
