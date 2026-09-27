@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Valentino Marcell</h1>
 <h3 align="center">A passionate Data Scientist from Indonesia</h3>
 
-- 🔭 I’m currently Studying 
+* 🔭 I’m currently studying **Banking and Finance** at **Tamkang University**
+* 🌱 I’m currently learning about **Finance, Data Analysis, and Financial Technology**
+* 💻 I have a background in **Computer Science - Data Science**
+* 📫 How to reach me: **[marcellvalentino04@gmail.com](mailto:marcellvalentino04@gmail.com)**
 
-- 🌱 I’m currently learning **Banking and Finance**
-
-- 📫 How to reach me **marcellvalentino04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
