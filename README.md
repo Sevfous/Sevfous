@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Valentino Marcell</h1>
 <h3 align="center">A passionate Data Scientist from Indonesia</h3>
 
-- 🔭 I’m currently working on **Kloster**
+- 🔭 I’m currently Studying 
 
-- 🌱 I’m currently learning **Text Mining, Express, NodeJS, and Laravel**
+- 🌱 I’m currently learning **Banking and Finance**
 
-- 📫 How to reach me **valentino.marcell@binus.ac.id**
+- 📫 How to reach me **marcellvalentino04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
